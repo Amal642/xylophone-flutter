@@ -2,15 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+A flutter App made using audioplayers package to play sounds like xylophone
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/Amal642/xylophone-flutter/assets/55709461/7b959ac3-071f-43fa-802b-97331c3ac2a5)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
